@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/Gson-v2.10.1-blue" alt="Gson" />
 </p>
 
-<h2>Challenge Back End ONE</h2>
+<h2>Challenge Back End ONE - Oracle + Alura</h2>
 <p>O desafio proposto foi desenvolver um conversor de moedas que oferecesse interação textual com o usuário, onde o mesmo possui 6 opções
-distintas de conversões de moedas em um menu, onde a taxa de conversão é obtida por meio da API ExchangeRate-API (https://www.exchangerate-api.com),  garantindo dados precisos e em tempo real.</p>
+distintas de conversões de moedas em um menu, onde a taxa de conversão é obtida por meio da API ExchangeRate-API {https://www.exchangerate-api.com},  garantindo dados precisos e em tempo real.</p>
 
 
 
